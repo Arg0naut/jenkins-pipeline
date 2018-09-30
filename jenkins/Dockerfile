@@ -1,1 +1,1 @@
-FROM jenkins:2.60.3
+FROM markgardner10/jenkins-docker
